@@ -1,0 +1,43 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React airline management app",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "bootstrap": "4.5.0",
+    "bootstrap-social": "5.1.1",
+    "font-awesome": "4.7.0",
+    "jquery": "3.5.1",
+    "popper.js": "1.16.1",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-facebook-login": "4.1.1",
+    "react-google-login": "5.1.20",
+    "react-redux": "7.2.0",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "3.0.1",
+    "react-twitter-auth": "0.0.13",
+    "redux": "4.0.5",
+    "redux-immutable-state-invariant": "2.1.0",
+    "redux-thunk": "2.3.0"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
